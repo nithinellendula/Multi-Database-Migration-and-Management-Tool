@@ -141,6 +141,10 @@ Database_Migration/
     python main.py
     ```
 
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 
+**GitHub Repository:** https://github.com/nithinellendula/Databases-Integration.git
+
+**Status:** Functional, tested across MySQL, PostgreSQL, and Oracle on localhost
+
+**Author:** Nithin Ellendula
 
